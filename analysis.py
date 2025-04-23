@@ -2,7 +2,7 @@ import pandas as pd
 import math
 
 # Read the CSV file
-file_path = 'ev_battery_health_data.csv'
+file_path = 'DataSets/ev_battery_health_data.csv'
 df = pd.read_csv(file_path)
 
 # Function to calculate battery efficiency in percentage
@@ -161,7 +161,8 @@ df['Battery Health Score'] = df.apply(calculate_health_score, axis=1)
 df['Capacity Fade (%)'] = df.apply(calculate_capacity_fade, axis=1)
 
 # Save the updated DataFrame to a new CSV file
-df.to_csv('battery_health_predictions_updated.csv', index=False)
+df.to_csv('AnalysedData/battery_health_predictions_updated6.csv', index=False)
+
 
 print("Analysis complete. The new CSV file 'battery_health_predictions_updated.csv' has been saved.")
 
