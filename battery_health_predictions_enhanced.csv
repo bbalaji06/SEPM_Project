@@ -1,0 +1,501 @@
+Battery,Battery Model,State of Charge (SOC) (%),State of Health (SOH) (%),Cycle Count,Voltage (V),Temperature (°C),Internal Resistance (mΩ),Efficiency (%),Life Span Remaining,Charging/Discharging Rate,Life Span (Years),Health Status,Performance Score,Maintenance Recommendation
+Battery 1,UltraCharge 5000,63.66,73.46,2786,3.754,25.9,68.49,60.0,"0 years, 3 months, 5 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 2,UltraCharge 5000,91.36,86.03,1387,4.135,33.5,41.44,60.34,"4 years, 10 months, 5 days",Fast (2C),4.0,Fair,54.2,No maintenance needed
+Battery 3,UltraCharge 5000,61.47,73.71,2778,3.783,29.8,62.18,60.0,"0 years, 3 months, 26 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 4,LithiumPro 100,31.24,82.94,975,3.586,25.5,42.78,60.0,"5 years, 4 months, 6 days",Fast (2C),5.0,Fair,57.0,No maintenance needed
+Battery 5,EcoCell 75,67.92,93.66,56,3.71,21.8,26.47,67.71,"8 years, 8 months, 15 days",Fast (2C),8.0,Good,71.4,No maintenance needed
+Battery 6,UltraCharge 5000,49.45,77.83,2530,3.695,21.3,54.35,60.0,"0 years, 11 months, 17 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 7,LithiumPro 100,22.71,97.7,294,3.46,21.7,27.3,68.67,"13 years, 2 months, 9 days",Ultra-Fast (3C),13.0,Excellent,78.1,No maintenance needed
+Battery 8,UltraCharge 5000,61.83,82.77,1990,3.883,23.4,53.83,60.0,"2 years, 4 months, 2 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 9,UltraCharge 5000,67.14,98.88,313,3.89,23.5,21.78,70.75,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.5,No maintenance needed
+Battery 10,UltraCharge 5000,87.62,90.1,810,4.138,31.3,29.85,64.53,"9 years, 2 months, 17 days",Ultra-Fast (3C),9.0,Excellent,72.2,No maintenance needed
+Battery 11,PowerMax X,74.31,92.06,757,3.779,32.3,34.44,65.16,"6 years, 3 months, 15 days",Fast (2C),6.0,Good,63.6,No maintenance needed
+Battery 12,UltraCharge 5000,33.58,92.42,686,3.594,25.3,30.71,66.3,"10 years, 8 months, 5 days",Fast (2C),10.0,Excellent,76.4,No maintenance needed
+Battery 13,UltraCharge 5000,55.79,100.0,235,3.706,23.0,19.18,71.75,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.2,No maintenance needed
+Battery 14,PowerMax X,54.81,97.26,292,3.64,23.3,27.18,69.04,"11 years, 0 months, 10 days",Ultra-Fast (3C),11.0,Excellent,78.3,No maintenance needed
+Battery 15,LithiumPro 100,41.95,66.99,2306,3.697,23.2,66.65,60.0,"0 years, 6 months, 19 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 16,UltraCharge 5000,37.33,100.0,123,3.577,23.9,20.08,71.51,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.1,No maintenance needed
+Battery 17,LithiumPro 100,37.32,63.77,2241,3.487,27.0,75.92,60.0,"0 years, 4 months, 25 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 18,EcoCell 75,42.87,90.93,481,3.453,27.1,36.34,64.1,"5 years, 0 months, 15 days",Fast (2C),5.0,Fair,59.9,No maintenance needed
+Battery 19,PowerMax X,93.8,73.53,1962,4.038,35.3,64.78,60.0,"0 years, 7 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 20,PowerMax X,71.81,100.0,57,3.775,30.6,24.03,70.72,"13 years, 1 months, 9 days",Ultra-Fast (3C),13.0,Excellent,79.5,No maintenance needed
+Battery 21,PowerMax X,72.48,95.44,190,3.91,31.7,22.6,68.7,"11 years, 5 months, 13 days",Ultra-Fast (3C),11.0,Excellent,78.1,No maintenance needed
+Battery 22,LithiumPro 100,53.47,92.4,419,3.779,23.5,27.9,67.05,"11 years, 3 months, 10 days",Ultra-Fast (3C),11.0,Excellent,76.9,No maintenance needed
+Battery 23,UltraCharge 5000,43.57,97.56,625,3.59,21.1,27.8,68.76,"12 years, 7 months, 5 days",Ultra-Fast (3C),12.0,Excellent,78.1,No maintenance needed
+Battery 24,EcoCell 75,71.34,70.56,1945,3.698,25.4,81.68,60.0,"0 years, 0 months, 10 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections
+Battery 25,EcoCell 75,26.7,80.68,1375,3.3,26.1,58.05,60.0,"1 years, 0 months, 11 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 26,LithiumPro 100,56.29,75.03,1764,3.79,27.3,52.24,60.0,"2 years, 0 months, 7 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 27,LithiumPro 100,59.67,95.31,265,3.852,26.8,24.43,68.78,"13 years, 3 months, 19 days",Ultra-Fast (3C),13.0,Excellent,78.1,No maintenance needed
+Battery 28,LithiumPro 100,93.23,100.0,123,4.057,34.1,22.71,70.08,"14 years, 7 months, 21 days",Ultra-Fast (3C),14.0,Excellent,79.1,No maintenance needed
+Battery 29,EcoCell 75,93.77,93.61,225,3.839,31.1,29.12,66.83,"6 years, 11 months, 0 days",Fast (2C),6.0,Good,64.8,No maintenance needed
+Battery 30,EcoCell 75,72.39,88.27,790,3.798,27.1,43.6,62.09,"3 years, 3 months, 2 days",Fast (2C),3.0,Poor,52.5,Schedule replacement in next 6 months
+Battery 31,LithiumPro 100,55.49,95.17,124,3.714,28.1,23.54,68.95,"14 years, 3 months, 12 days",Ultra-Fast (3C),14.0,Excellent,78.3,No maintenance needed
+Battery 32,EcoCell 75,75.68,93.45,358,3.662,24.2,35.75,65.84,"5 years, 11 months, 7 days",Fast (2C),5.0,Fair,61.1,No maintenance needed
+Battery 33,EcoCell 75,60.12,67.76,2167,3.625,21.3,87.44,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 34,UltraCharge 5000,75.24,97.87,300,4.002,23.2,20.92,70.22,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.2,No maintenance needed
+Battery 35,PowerMax X,33.34,96.19,152,3.387,26.5,22.46,68.98,"12 years, 6 months, 11 days",Ultra-Fast (3C),12.0,Excellent,78.3,No maintenance needed
+Battery 36,LithiumPro 100,57.95,73.93,1916,3.844,27.2,55.04,60.0,"1 years, 6 months, 25 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 37,PowerMax X,46.27,95.76,157,3.596,21.3,24.0,68.8,"12 years, 3 months, 9 days",Ultra-Fast (3C),12.0,Excellent,78.2,No maintenance needed
+Battery 38,EcoCell 75,31.39,85.91,687,3.275,27.9,45.95,60.0,"3 years, 2 months, 22 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 39,PowerMax X,84.79,94.66,581,3.945,27.6,34.01,66.32,"7 years, 8 months, 27 days",Fast (2C),7.0,Good,67.4,No maintenance needed
+Battery 40,PowerMax X,99.49,95.59,378,4.1,31.7,26.53,67.55,"9 years, 7 months, 28 days",Ultra-Fast (3C),9.0,Excellent,74.3,No maintenance needed
+Battery 41,UltraCharge 5000,49.57,97.55,343,3.617,22.5,23.68,69.75,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.8,No maintenance needed
+Battery 42,LithiumPro 100,66.59,67.87,2068,3.85,24.8,65.1,60.0,"0 years, 10 months, 18 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 43,EcoCell 75,46.54,82.96,885,3.385,21.2,49.46,60.0,"2 years, 5 months, 11 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 44,PowerMax X,79.86,91.12,680,3.835,26.8,33.37,65.27,"7 years, 0 months, 8 days",Fast (2C),7.0,Good,66.7,No maintenance needed
+Battery 45,EcoCell 75,54.3,94.97,272,3.553,24.7,29.71,67.48,"7 years, 2 months, 15 days",Fast (2C),7.0,Good,68.2,No maintenance needed
+Battery 46,UltraCharge 5000,49.84,99.69,386,3.623,28.7,21.31,71.04,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.7,No maintenance needed
+Battery 47,EcoCell 75,44.22,98.2,106,3.347,27.4,26.41,68.88,"8 years, 9 months, 20 days",Fast (2C),8.0,Good,72.2,No maintenance needed
+Battery 48,EcoCell 75,69.18,89.12,799,3.725,27.9,41.19,62.92,"3 years, 4 months, 27 days",Fast (2C),3.0,Poor,53.0,Schedule replacement in next 6 months
+Battery 49,UltraCharge 5000,14.93,97.2,566,3.401,14.6,26.17,68.02,"13 years, 3 months, 3 days",Ultra-Fast (3C),13.0,Excellent,77.6,No maintenance needed
+Battery 50,LithiumPro 100,79.07,96.99,370,4.026,22.9,27.38,68.48,"12 years, 6 months, 16 days",Ultra-Fast (3C),12.0,Excellent,77.9,No maintenance needed
+Battery 51,LithiumPro 100,31.4,85.0,990,3.456,32.3,39.95,60.5,"5 years, 5 months, 1 days",Fast (2C),5.0,Fair,57.3,No maintenance needed
+Battery 52,LithiumPro 100,86.59,76.77,1455,3.972,29.0,53.46,60.0,"2 years, 7 months, 14 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 53,UltraCharge 5000,16.25,93.25,737,3.426,34.9,25.81,66.53,"10 years, 4 months, 19 days",Ultra-Fast (3C),10.0,Excellent,76.6,No maintenance needed
+Battery 54,PowerMax X,53.14,94.3,249,3.667,18.3,29.66,66.98,"10 years, 3 months, 28 days",Ultra-Fast (3C),10.0,Excellent,76.9,No maintenance needed
+Battery 55,EcoCell 75,37.63,93.28,261,3.397,35.9,32.07,65.15,"6 years, 0 months, 15 days",Fast (2C),6.0,Good,63.6,Improve cooling system
+Battery 56,EcoCell 75,66.58,91.42,565,3.665,35.5,38.46,63.73,"4 years, 2 months, 7 days",Fast (2C),4.0,Fair,56.6,Improve cooling system
+Battery 57,PowerMax X,52.5,92.75,768,3.566,20.3,32.58,65.67,"7 years, 0 months, 18 days",Fast (2C),7.0,Good,67.0,No maintenance needed
+Battery 58,PowerMax X,90.7,89.18,646,3.979,28.1,32.95,64.12,"6 years, 10 months, 25 days",Fast (2C),6.0,Good,62.9,No maintenance needed
+Battery 59,UltraCharge 5000,36.55,91.59,782,3.501,26.0,31.5,65.53,"9 years, 9 months, 29 days",Fast (2C),9.0,Excellent,72.9,No maintenance needed
+Battery 60,PowerMax X,27.44,65.9,2552,3.38,22.7,83.53,60.0,"0 years, 0 months, 4 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 61,EcoCell 75,27.26,76.97,1488,3.185,18.4,60.74,60.0,"0 years, 8 months, 25 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 62,PowerMax X,99.42,94.24,369,4.072,33.7,30.14,66.18,"8 years, 8 months, 24 days",Fast (2C),8.0,Good,70.3,No maintenance needed
+Battery 63,UltraCharge 5000,43.72,96.37,285,3.554,29.3,19.81,69.71,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.8,No maintenance needed
+Battery 64,PowerMax X,35.81,87.85,706,3.556,21.7,33.72,63.47,"6 years, 7 months, 13 days",Fast (2C),6.0,Good,62.4,No maintenance needed
+Battery 65,UltraCharge 5000,24.44,98.28,284,3.346,19.8,24.11,69.16,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.4,No maintenance needed
+Battery 66,PowerMax X,90.71,92.99,544,3.999,25.6,30.03,66.44,"8 years, 5 months, 10 days",Fast (2C),8.0,Good,70.5,No maintenance needed
+Battery 67,EcoCell 75,65.93,97.91,152,3.661,25.7,26.76,69.52,"8 years, 6 months, 29 days",Fast (2C),8.0,Good,72.7,No maintenance needed
+Battery 68,LithiumPro 100,39.14,92.35,515,3.583,27.4,26.98,66.84,"10 years, 7 months, 21 days",Ultra-Fast (3C),10.0,Excellent,76.8,No maintenance needed
+Battery 69,EcoCell 75,44.12,89.16,706,3.442,20.4,39.66,62.48,"3 years, 11 months, 3 days",Fast (2C),3.0,Poor,52.7,Schedule replacement in next 6 months
+Battery 70,EcoCell 75,87.11,88.62,466,3.954,43.2,32.9,62.82,"4 years, 4 months, 12 days",Standard (1C),4.0,Fair,56.0,Improve cooling system
+Battery 71,EcoCell 75,75.42,92.5,422,3.833,24.1,32.59,66.08,"5 years, 10 months, 29 days",Fast (2C),5.0,Fair,61.3,No maintenance needed
+Battery 72,PowerMax X,74.56,66.73,2611,3.854,23.6,72.98,60.0,"0 years, 0 months, 7 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 73,PowerMax X,75.16,83.51,1486,3.939,23.2,48.92,60.0,"2 years, 5 months, 15 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 74,LithiumPro 100,96.79,91.72,425,4.2,24.8,30.44,65.41,"10 years, 7 months, 19 days",Fast (2C),10.0,Excellent,75.8,No maintenance needed
+Battery 75,UltraCharge 5000,61.94,94.05,576,3.724,26.4,25.59,68.22,"12 years, 6 months, 3 days",Ultra-Fast (3C),12.0,Excellent,77.8,No maintenance needed
+Battery 76,LithiumPro 100,37.89,78.99,1276,3.524,36.0,40.99,60.0,"3 years, 9 months, 15 days",Standard (1C),3.0,Poor,51.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 77,LithiumPro 100,56.78,90.69,421,3.774,28.6,26.95,66.38,"10 years, 8 months, 25 days",Ultra-Fast (3C),10.0,Excellent,76.5,No maintenance needed
+Battery 78,EcoCell 75,95.63,94.41,250,3.951,32.2,29.33,66.79,"6 years, 9 months, 10 days",Fast (2C),6.0,Good,64.8,No maintenance needed
+Battery 79,PowerMax X,38.46,78.67,1582,3.52,23.2,52.06,60.0,"1 years, 10 months, 20 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 80,PowerMax X,24.9,65.56,2773,3.298,23.4,77.8,60.0,"0 years, 0 months, 6 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 81,EcoCell 75,45.62,79.48,1311,3.554,26.1,60.36,60.0,"1 years, 0 months, 17 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 82,UltraCharge 5000,43.83,82.14,1783,3.717,20.5,43.83,60.0,"3 years, 6 months, 0 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 83,UltraCharge 5000,66.51,99.05,197,3.789,22.4,21.24,71.07,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.7,No maintenance needed
+Battery 84,PowerMax X,70.91,94.54,416,3.731,27.6,28.05,67.86,"9 years, 5 months, 14 days",Ultra-Fast (3C),9.0,Excellent,74.5,No maintenance needed
+Battery 85,LithiumPro 100,28.91,100.0,80,3.394,36.1,18.95,70.37,"15 years, 0 months, 0 days",Fast (2C),15.0,Excellent,79.3,Improve cooling system
+Battery 86,PowerMax X,70.88,77.77,1789,3.843,24.8,54.01,60.0,"1 years, 4 months, 10 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 87,UltraCharge 5000,86.95,97.28,537,4.159,27.7,25.49,68.64,"13 years, 3 months, 0 days",Ultra-Fast (3C),13.0,Excellent,78.0,No maintenance needed
+Battery 88,UltraCharge 5000,54.57,93.2,770,3.746,29.3,28.62,67.09,"10 years, 3 months, 28 days",Ultra-Fast (3C),10.0,Excellent,77.0,No maintenance needed
+Battery 89,PowerMax X,41.03,89.3,622,3.457,25.4,32.28,64.36,"7 years, 3 months, 19 days",Fast (2C),7.0,Good,66.1,No maintenance needed
+Battery 90,EcoCell 75,59.02,93.4,180,3.593,26.6,28.11,67.13,"7 years, 7 months, 1 days",Fast (2C),7.0,Good,68.0,No maintenance needed
+Battery 91,UltraCharge 5000,63.49,100.0,80,3.753,29.8,19.87,71.63,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.1,No maintenance needed
+Battery 92,LithiumPro 100,27.01,75.67,1506,3.544,24.6,55.81,60.0,"2 years, 5 months, 3 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 93,PowerMax X,21.47,81.13,1679,3.326,20.4,54.13,60.0,"1 years, 8 months, 4 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 94,PowerMax X,39.87,85.96,1017,3.403,22.6,45.6,60.02,"4 years, 1 months, 15 days",Fast (2C),4.0,Fair,54.0,No maintenance needed
+Battery 95,EcoCell 75,46.5,92.46,535,3.434,19.9,40.94,63.55,"4 years, 7 months, 21 days",Fast (2C),4.0,Fair,56.5,No maintenance needed
+Battery 96,LithiumPro 100,21.65,88.56,844,3.357,32.8,31.57,63.41,"7 years, 3 months, 17 days",Fast (2C),7.0,Good,65.4,No maintenance needed
+Battery 97,EcoCell 75,93.11,76.44,1740,3.969,36.9,59.49,60.0,"0 years, 4 months, 0 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 98,LithiumPro 100,58.58,90.2,548,3.758,30.4,30.07,65.45,"9 years, 3 months, 9 days",Fast (2C),9.0,Excellent,72.8,No maintenance needed
+Battery 99,UltraCharge 5000,73.65,92.7,570,4.01,29.9,24.35,67.11,"12 years, 1 months, 3 days",Ultra-Fast (3C),12.0,Excellent,77.0,No maintenance needed
+Battery 100,PowerMax X,38.92,98.73,239,3.448,23.8,25.99,69.5,"11 years, 10 months, 10 days",Ultra-Fast (3C),11.0,Excellent,78.7,No maintenance needed
+Battery 101,PowerMax X,12.59,65.09,2825,3.218,23.7,90.54,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 102,EcoCell 75,83.14,98.14,126,3.865,26.1,28.39,69.2,"8 years, 5 months, 27 days",Fast (2C),8.0,Good,72.4,No maintenance needed
+Battery 103,UltraCharge 5000,40.07,95.31,565,3.567,27.5,26.82,68.07,"12 years, 5 months, 1 days",Ultra-Fast (3C),12.0,Excellent,77.6,No maintenance needed
+Battery 104,UltraCharge 5000,94.4,75.56,2746,4.075,25.5,61.96,60.0,"0 years, 4 months, 25 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 105,EcoCell 75,94.99,62.98,2656,3.887,31.0,87.96,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 106,UltraCharge 5000,40.9,93.89,782,3.634,21.2,31.04,66.68,"10 years, 4 months, 21 days",Fast (2C),10.0,Excellent,76.7,No maintenance needed
+Battery 107,PowerMax X,76.78,92.1,544,3.861,28.3,30.66,66.05,"8 years, 0 months, 3 days",Fast (2C),8.0,Good,70.2,No maintenance needed
+Battery 108,EcoCell 75,37.35,69.5,2073,3.378,27.2,73.7,60.0,"0 years, 0 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 109,PowerMax X,95.12,72.74,2283,4.091,30.3,72.64,60.0,"0 years, 2 months, 12 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 110,UltraCharge 5000,82.06,81.53,1687,3.992,36.8,38.8,60.0,"3 years, 7 months, 24 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 111,EcoCell 75,39.32,75.33,1505,3.493,26.3,66.82,60.0,"0 years, 6 months, 24 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 112,PowerMax X,48.29,83.83,1463,3.547,27.0,53.07,60.0,"2 years, 3 months, 3 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 113,LithiumPro 100,34.22,89.14,611,3.503,26.2,33.06,64.18,"8 years, 8 months, 23 days",Fast (2C),8.0,Good,68.9,No maintenance needed
+Battery 114,PowerMax X,88.48,93.52,312,4.025,24.4,26.42,67.33,"10 years, 5 months, 1 days",Ultra-Fast (3C),10.0,Excellent,77.1,No maintenance needed
+Battery 115,UltraCharge 5000,37.08,94.65,465,3.605,25.9,23.29,68.7,"13 years, 10 months, 29 days",Ultra-Fast (3C),13.0,Excellent,78.1,No maintenance needed
+Battery 116,LithiumPro 100,40.06,73.25,1816,3.664,19.8,66.05,60.0,"1 years, 3 months, 19 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 117,UltraCharge 5000,91.5,93.76,589,4.09,35.6,22.93,67.23,"11 years, 8 months, 25 days",Fast (2C),11.0,Excellent,77.1,Improve cooling system
+Battery 118,PowerMax X,61.45,89.22,683,3.75,27.6,32.78,64.72,"6 years, 9 months, 21 days",Fast (2C),6.0,Good,63.3,No maintenance needed
+Battery 119,UltraCharge 5000,49.96,77.44,2464,3.731,21.5,59.76,60.0,"0 years, 11 months, 13 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 120,PowerMax X,34.92,67.66,2779,3.526,19.7,83.38,60.0,"0 years, 0 months, 4 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 121,EcoCell 75,83.67,85.56,723,3.84,35.6,41.25,60.69,"3 years, 1 months, 25 days",Fast (2C),3.0,Poor,51.5,Schedule replacement in next 6 months; Improve cooling system
+Battery 122,PowerMax X,30.91,75.52,1786,3.403,37.4,55.44,60.0,"1 years, 1 months, 8 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 123,EcoCell 75,83.2,91.78,421,3.742,27.0,34.67,65.45,"5 years, 6 months, 7 days",Fast (2C),5.0,Fair,60.8,No maintenance needed
+Battery 124,EcoCell 75,94.9,96.18,203,3.961,40.7,28.33,67.08,"6 years, 7 months, 27 days",Standard (1C),6.0,Good,65.0,Improve cooling system
+Battery 125,UltraCharge 5000,37.96,97.18,286,3.573,25.9,22.96,69.76,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.8,No maintenance needed
+Battery 126,PowerMax X,36.34,90.45,464,3.471,26.5,28.51,65.55,"8 years, 7 months, 19 days",Ultra-Fast (3C),8.0,Good,69.9,No maintenance needed
+Battery 127,UltraCharge 5000,48.41,95.62,257,3.766,28.7,20.2,69.81,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.9,No maintenance needed
+Battery 128,EcoCell 75,56.37,93.18,345,3.578,40.4,32.83,65.03,"5 years, 3 months, 27 days",Standard (1C),5.0,Fair,60.5,Improve cooling system
+Battery 129,PowerMax X,30.77,68.24,2718,3.345,21.3,87.42,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 130,UltraCharge 5000,87.45,97.63,251,4.036,28.3,19.05,70.11,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.1,No maintenance needed
+Battery 131,LithiumPro 100,39.91,88.54,570,3.604,27.5,29.22,64.83,"9 years, 3 months, 29 days",Fast (2C),9.0,Good,72.4,No maintenance needed
+Battery 132,PowerMax X,25.17,89.61,751,3.377,26.8,35.41,63.58,"6 years, 3 months, 22 days",Fast (2C),6.0,Good,62.5,No maintenance needed
+Battery 133,UltraCharge 5000,57.22,98.14,412,3.812,23.3,25.73,69.81,"14 years, 6 months, 29 days",Ultra-Fast (3C),14.0,Excellent,78.9,No maintenance needed
+Battery 134,UltraCharge 5000,99.11,85.63,1461,4.2,33.1,38.89,60.57,"4 years, 10 months, 0 days",Fast (2C),4.0,Fair,54.4,No maintenance needed
+Battery 135,EcoCell 75,79.42,94.72,120,3.859,27.6,28.49,67.64,"7 years, 11 months, 12 days",Fast (2C),7.0,Good,68.3,No maintenance needed
+Battery 136,UltraCharge 5000,42.41,95.28,813,3.647,24.8,30.85,67.6,"10 years, 5 months, 27 days",Fast (2C),10.0,Excellent,77.3,No maintenance needed
+Battery 137,UltraCharge 5000,11.38,98.39,403,3.335,17.5,21.67,69.49,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.6,No maintenance needed
+Battery 138,LithiumPro 100,76.77,60.0,2986,4.008,32.6,94.64,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 139,PowerMax X,82.29,68.41,2720,3.93,31.6,75.66,60.0,"0 years, 0 months, 6 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 140,LithiumPro 100,40.84,81.92,1097,3.674,20.0,47.41,60.0,"4 years, 5 months, 10 days",Fast (2C),4.0,Fair,54.0,No maintenance needed
+Battery 141,PowerMax X,31.55,90.98,898,3.356,23.9,35.49,64.14,"5 years, 11 months, 15 days",Fast (2C),5.0,Fair,59.9,No maintenance needed
+Battery 142,PowerMax X,97.2,81.15,1544,3.987,25.3,53.03,60.0,"2 years, 0 months, 4 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 143,EcoCell 75,32.01,89.89,415,3.253,23.2,36.43,63.21,"5 years, 3 months, 20 days",Fast (2C),5.0,Fair,59.2,No maintenance needed
+Battery 144,EcoCell 75,72.09,77.22,1295,3.793,23.9,56.22,60.0,"1 years, 1 months, 27 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 145,LithiumPro 100,52.91,100.0,88,3.646,35.6,21.89,70.59,"14 years, 10 months, 15 days",Fast (2C),14.0,Excellent,79.4,Improve cooling system
+Battery 146,UltraCharge 5000,46.75,72.97,2984,3.602,25.1,62.61,60.0,"0 years, 0 months, 15 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 147,UltraCharge 5000,52.64,96.92,314,3.726,26.2,21.46,70.27,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.2,No maintenance needed
+Battery 148,EcoCell 75,30.49,88.13,483,3.221,19.9,37.36,61.97,"4 years, 9 months, 23 days",Fast (2C),4.0,Fair,55.4,No maintenance needed
+Battery 149,EcoCell 75,24.25,91.62,344,3.246,27.3,30.42,65.09,"6 years, 3 months, 5 days",Fast (2C),6.0,Good,63.6,No maintenance needed
+Battery 150,LithiumPro 100,97.01,90.89,786,4.079,35.8,33.95,63.83,"7 years, 3 months, 5 days",Fast (2C),7.0,Good,65.7,Improve cooling system
+Battery 151,UltraCharge 5000,73.14,89.87,947,3.846,34.5,32.15,64.39,"7 years, 11 months, 1 days",Fast (2C),7.0,Good,66.1,No maintenance needed
+Battery 152,PowerMax X,51.74,96.41,457,3.634,29.2,29.58,68.0,"9 years, 1 months, 9 days",Ultra-Fast (3C),9.0,Excellent,74.6,No maintenance needed
+Battery 153,PowerMax X,72.15,70.83,2315,3.724,27.9,65.53,60.0,"0 years, 2 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 154,LithiumPro 100,19.19,92.14,339,3.491,32.6,27.11,66.12,"10 years, 11 months, 12 days",Ultra-Fast (3C),10.0,Excellent,76.3,No maintenance needed
+Battery 155,LithiumPro 100,53.34,92.61,337,3.786,26.3,26.82,67.35,"11 years, 10 months, 9 days",Ultra-Fast (3C),11.0,Excellent,77.1,No maintenance needed
+Battery 156,PowerMax X,57.32,92.95,675,3.715,26.0,31.4,66.61,"7 years, 6 months, 29 days",Fast (2C),7.0,Good,67.6,No maintenance needed
+Battery 157,PowerMax X,14.85,96.43,319,3.237,16.8,28.88,66.96,"10 years, 4 months, 28 days",Ultra-Fast (3C),10.0,Excellent,76.9,No maintenance needed
+Battery 158,PowerMax X,24.74,90.6,573,3.337,22.2,33.94,64.12,"7 years, 5 months, 26 days",Fast (2C),7.0,Good,65.9,No maintenance needed
+Battery 159,EcoCell 75,37.74,92.18,553,3.317,19.5,37.12,63.9,"4 years, 10 months, 25 days",Fast (2C),4.0,Fair,56.7,No maintenance needed
+Battery 160,EcoCell 75,27.99,74.64,1632,3.226,13.8,73.14,60.0,"0 years, 4 months, 0 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 161,UltraCharge 5000,34.88,80.02,2129,3.574,14.8,54.9,60.0,"1 years, 10 months, 10 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 162,EcoCell 75,22.7,67.58,2109,3.153,20.2,85.02,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 163,UltraCharge 5000,75.44,97.06,197,4.032,23.9,19.86,70.05,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.0,No maintenance needed
+Battery 164,EcoCell 75,67.71,70.33,1941,3.773,17.2,75.24,60.0,"0 years, 0 months, 16 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 165,UltraCharge 5000,42.94,80.41,1841,3.588,16.7,52.79,60.0,"2 years, 7 months, 23 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 166,LithiumPro 100,25.29,60.0,2748,3.378,24.0,79.83,60.0,"0 years, 0 months, 10 days",Standard (1C),0.0,Critical,42.0,Replace battery
+Battery 167,UltraCharge 5000,62.91,72.82,2963,3.843,21.8,64.88,60.0,"0 years, 0 months, 18 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 168,LithiumPro 100,41.4,87.72,717,3.636,23.4,34.9,63.49,"7 years, 10 months, 18 days",Fast (2C),7.0,Good,65.4,No maintenance needed
+Battery 169,EcoCell 75,79.3,90.88,551,3.712,19.0,40.8,63.47,"4 years, 5 months, 22 days",Fast (2C),4.0,Fair,56.4,No maintenance needed
+Battery 170,UltraCharge 5000,12.38,86.48,1229,3.423,34.7,37.81,61.3,"5 years, 8 months, 19 days",Fast (2C),5.0,Fair,57.9,No maintenance needed
+Battery 171,LithiumPro 100,79.78,95.15,210,3.902,33.4,21.05,68.78,"13 years, 5 months, 20 days",Ultra-Fast (3C),13.0,Excellent,78.1,No maintenance needed
+Battery 172,LithiumPro 100,96.23,96.57,108,4.187,30.2,20.36,69.11,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.4,No maintenance needed
+Battery 173,LithiumPro 100,65.63,87.77,795,3.883,36.7,34.72,62.74,"6 years, 8 months, 10 days",Fast (2C),6.0,Good,61.9,Improve cooling system
+Battery 174,PowerMax X,87.63,80.47,1655,4.004,30.0,53.53,60.0,"1 years, 7 months, 22 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 175,PowerMax X,39.38,94.57,141,3.519,27.5,26.46,67.72,"11 years, 4 months, 11 days",Ultra-Fast (3C),11.0,Excellent,77.4,No maintenance needed
+Battery 176,UltraCharge 5000,47.63,91.46,752,3.736,22.3,29.87,66.21,"10 years, 4 months, 8 days",Ultra-Fast (3C),10.0,Excellent,76.3,No maintenance needed
+Battery 177,PowerMax X,74.6,91.94,358,3.885,31.4,28.23,66.19,"8 years, 11 months, 22 days",Ultra-Fast (3C),8.0,Good,70.3,No maintenance needed
+Battery 178,PowerMax X,53.74,94.1,440,3.728,26.6,27.46,67.86,"9 years, 5 months, 14 days",Ultra-Fast (3C),9.0,Excellent,74.5,No maintenance needed
+Battery 179,PowerMax X,40.57,63.63,2810,3.561,27.3,88.76,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 180,EcoCell 75,83.34,95.48,301,3.906,25.5,31.77,67.36,"6 years, 9 months, 29 days",Fast (2C),6.0,Good,65.2,No maintenance needed
+Battery 181,LithiumPro 100,72.04,88.34,670,3.826,28.9,29.65,64.71,"8 years, 7 months, 16 days",Fast (2C),8.0,Good,69.3,No maintenance needed
+Battery 182,EcoCell 75,73.4,85.72,972,3.773,27.1,46.51,60.49,"2 years, 5 months, 16 days",Fast (2C),2.0,Poor,48.3,Schedule replacement in next 6 months
+Battery 183,UltraCharge 5000,71.77,93.69,555,3.873,24.7,23.67,68.32,"13 years, 1 months, 29 days",Ultra-Fast (3C),13.0,Excellent,77.8,No maintenance needed
+Battery 184,LithiumPro 100,80.55,97.14,282,3.984,31.5,22.05,69.37,"13 years, 5 months, 13 days",Ultra-Fast (3C),13.0,Excellent,78.6,No maintenance needed
+Battery 185,UltraCharge 5000,87.38,99.39,178,4.097,33.6,20.25,70.27,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.2,No maintenance needed
+Battery 186,EcoCell 75,65.48,79.32,1451,3.658,28.8,65.55,60.0,"0 years, 8 months, 9 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 187,LithiumPro 100,46.38,87.74,656,3.67,25.7,35.85,63.45,"7 years, 11 months, 12 days",Fast (2C),7.0,Good,65.4,No maintenance needed
+Battery 188,EcoCell 75,31.85,92.18,357,3.26,18.3,37.32,63.65,"5 years, 7 months, 24 days",Fast (2C),5.0,Fair,59.6,No maintenance needed
+Battery 189,PowerMax X,41.81,75.49,1966,3.492,23.4,56.37,60.0,"0 years, 11 months, 0 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 190,EcoCell 75,64.38,81.48,1072,3.732,21.9,57.29,60.0,"1 years, 7 months, 16 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 191,EcoCell 75,48.34,91.51,262,3.494,22.6,34.35,64.81,"6 years, 3 months, 24 days",Fast (2C),6.0,Good,63.4,No maintenance needed
+Battery 192,UltraCharge 5000,30.88,81.91,2132,3.413,23.8,47.93,60.0,"2 years, 3 months, 1 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 193,EcoCell 75,93.99,92.85,483,3.957,42.8,31.05,64.99,"4 years, 9 months, 19 days",Standard (1C),4.0,Fair,57.5,Improve cooling system
+Battery 194,UltraCharge 5000,34.36,100.0,146,3.598,25.2,18.99,71.64,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.1,No maintenance needed
+Battery 195,UltraCharge 5000,95.15,82.93,2015,4.18,37.9,49.46,60.0,"2 years, 2 months, 13 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 196,PowerMax X,15.52,98.75,141,3.186,20.1,26.11,68.62,"12 years, 6 months, 5 days",Ultra-Fast (3C),12.0,Excellent,78.0,No maintenance needed
+Battery 197,LithiumPro 100,79.67,60.0,2746,3.972,24.2,88.54,60.0,"0 years, 0 months, 6 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 198,LithiumPro 100,84.19,88.18,880,3.992,26.1,38.49,62.71,"6 years, 8 months, 14 days",Fast (2C),6.0,Good,61.9,No maintenance needed
+Battery 199,PowerMax X,92.14,99.93,93,4.1,27.1,24.24,70.18,"13 years, 2 months, 26 days",Ultra-Fast (3C),13.0,Excellent,79.1,No maintenance needed
+Battery 200,EcoCell 75,67.16,72.17,1951,3.639,22.5,72.2,60.0,"0 years, 0 months, 15 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 201,LithiumPro 100,86.67,75.31,1673,4.032,32.8,53.8,60.0,"2 years, 0 months, 6 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 202,UltraCharge 5000,24.32,98.58,74,3.389,18.4,20.12,70.07,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.0,No maintenance needed
+Battery 203,UltraCharge 5000,48.68,94.15,392,3.64,26.6,25.63,68.05,"13 years, 7 months, 17 days",Ultra-Fast (3C),13.0,Excellent,77.6,No maintenance needed
+Battery 204,UltraCharge 5000,55.98,98.91,382,3.858,29.2,20.16,70.95,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.7,No maintenance needed
+Battery 205,EcoCell 75,55.84,96.6,186,3.642,24.8,32.15,67.88,"7 years, 6 months, 7 days",Fast (2C),7.0,Good,68.5,No maintenance needed
+Battery 206,PowerMax X,44.47,93.03,510,3.575,19.6,34.97,65.28,"7 years, 11 months, 6 days",Fast (2C),7.0,Good,66.7,No maintenance needed
+Battery 207,UltraCharge 5000,30.31,76.78,2560,3.495,21.9,62.33,60.0,"0 years, 8 months, 18 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 208,LithiumPro 100,19.84,95.24,495,3.406,36.5,28.13,66.74,"10 years, 0 months, 3 days",Fast (2C),10.0,Excellent,76.7,Improve cooling system
+Battery 209,PowerMax X,97.95,95.52,115,4.016,36.4,25.03,67.66,"10 years, 10 months, 26 days",Fast (2C),10.0,Excellent,77.4,Improve cooling system
+Battery 210,UltraCharge 5000,41.62,74.14,2949,3.681,25.7,72.18,60.0,"0 years, 0 months, 20 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 211,LithiumPro 100,24.68,98.02,140,3.482,25.8,24.47,69.61,"14 years, 11 months, 1 days",Ultra-Fast (3C),14.0,Excellent,78.7,No maintenance needed
+Battery 212,EcoCell 75,95.32,63.27,2611,3.88,32.6,88.23,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 213,LithiumPro 100,25.82,96.48,314,3.429,19.6,25.86,68.22,"13 years, 1 months, 20 days",Ultra-Fast (3C),13.0,Excellent,77.8,No maintenance needed
+Battery 214,UltraCharge 5000,57.4,95.85,631,3.856,24.5,25.87,68.81,"12 years, 7 months, 23 days",Ultra-Fast (3C),12.0,Excellent,78.2,No maintenance needed
+Battery 215,LithiumPro 100,77.91,61.23,2627,3.903,20.8,77.28,60.0,"0 years, 1 months, 10 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 216,LithiumPro 100,60.73,96.82,288,3.868,21.8,24.6,69.24,"13 years, 8 months, 2 days",Ultra-Fast (3C),13.0,Excellent,78.5,No maintenance needed
+Battery 217,LithiumPro 100,37.74,89.26,786,3.643,21.0,38.84,63.18,"7 years, 2 months, 24 days",Fast (2C),7.0,Good,65.2,No maintenance needed
+Battery 218,LithiumPro 100,98.82,65.57,2442,4.2,20.7,84.86,60.0,"0 years, 2 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 219,UltraCharge 5000,47.43,100.0,310,3.749,23.8,22.33,71.44,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.0,No maintenance needed
+Battery 220,PowerMax X,54.36,87.31,728,3.67,36.0,31.54,63.36,"5 years, 11 months, 26 days",Fast (2C),5.0,Fair,59.4,Improve cooling system
+Battery 221,LithiumPro 100,29.43,90.07,650,3.593,18.6,32.32,64.53,"8 years, 10 months, 28 days",Fast (2C),8.0,Good,69.2,No maintenance needed
+Battery 222,EcoCell 75,13.05,77.09,1684,3.041,24.0,73.49,60.0,"0 years, 3 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 223,UltraCharge 5000,84.39,97.4,375,4.104,26.1,22.63,69.5,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.7,No maintenance needed
+Battery 224,LithiumPro 100,91.95,93.34,527,4.101,28.3,27.87,66.59,"10 years, 5 months, 25 days",Ultra-Fast (3C),10.0,Excellent,76.6,No maintenance needed
+Battery 225,PowerMax X,96.55,88.95,616,4.1,32.8,30.7,63.85,"6 years, 11 months, 8 days",Fast (2C),6.0,Good,62.7,No maintenance needed
+Battery 226,EcoCell 75,95.41,93.28,119,4.0,34.1,30.09,65.91,"7 years, 0 months, 19 days",Fast (2C),7.0,Good,67.1,No maintenance needed
+Battery 227,PowerMax X,80.93,88.35,711,3.933,41.1,30.98,63.29,"5 years, 10 months, 12 days",Standard (1C),5.0,Fair,59.3,Improve cooling system
+Battery 228,EcoCell 75,57.37,66.86,2116,3.666,24.4,90.37,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 229,PowerMax X,41.38,65.45,2580,3.574,21.8,73.48,60.0,"0 years, 0 months, 7 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 230,EcoCell 75,88.7,83.58,1118,3.83,30.6,46.37,60.0,"1 years, 11 months, 12 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 231,LithiumPro 100,55.23,88.26,764,3.752,22.7,36.49,63.59,"7 years, 6 months, 10 days",Fast (2C),7.0,Good,65.5,No maintenance needed
+Battery 232,UltraCharge 5000,47.64,98.09,270,3.755,37.7,20.03,70.23,"14 years, 11 months, 18 days",Fast (2C),14.0,Excellent,79.2,Improve cooling system
+Battery 233,LithiumPro 100,12.3,60.0,2522,3.341,23.9,88.54,60.0,"0 years, 1 months, 1 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 234,PowerMax X,75.08,79.35,1795,3.802,42.1,52.41,60.0,"1 years, 2 months, 11 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 235,EcoCell 75,65.17,72.55,1675,3.654,29.2,63.95,60.0,"0 years, 4 months, 13 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 236,EcoCell 75,99.89,91.35,610,4.0,25.8,37.37,64.27,"4 years, 6 months, 24 days",Fast (2C),4.0,Fair,57.0,No maintenance needed
+Battery 237,EcoCell 75,46.51,87.28,794,3.474,23.5,48.08,60.31,"2 years, 11 months, 17 days",Fast (2C),2.0,Poor,48.2,Schedule replacement in next 6 months
+Battery 238,PowerMax X,51.2,79.31,1864,3.681,21.1,55.0,60.0,"1 years, 2 months, 20 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 239,UltraCharge 5000,44.79,77.7,2353,3.6,27.2,52.89,60.0,"1 years, 4 months, 5 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 240,UltraCharge 5000,46.56,98.91,298,3.708,22.9,22.21,70.85,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.6,No maintenance needed
+Battery 241,EcoCell 75,99.33,80.56,1361,3.994,30.9,60.14,60.0,"0 years, 11 months, 11 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 242,UltraCharge 5000,94.54,76.17,2560,4.143,27.2,58.94,60.0,"0 years, 9 months, 3 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 243,PowerMax X,77.75,87.94,924,3.874,18.7,40.33,62.12,"5 years, 0 months, 27 days",Fast (2C),5.0,Fair,58.5,No maintenance needed
+Battery 244,EcoCell 75,55.48,88.3,475,3.627,24.4,37.16,63.33,"4 years, 10 months, 15 days",Fast (2C),4.0,Fair,56.3,No maintenance needed
+Battery 245,PowerMax X,77.62,95.18,412,3.783,27.5,28.32,68.05,"9 years, 6 months, 14 days",Ultra-Fast (3C),9.0,Excellent,74.6,No maintenance needed
+Battery 246,PowerMax X,47.85,66.22,2814,3.586,39.2,83.4,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Improve cooling system; Reduce fast charging frequency
+Battery 247,UltraCharge 5000,76.24,81.39,1975,4.036,28.9,51.75,60.0,"2 years, 4 months, 1 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 248,UltraCharge 5000,71.85,74.82,2511,4.011,24.9,59.1,60.0,"0 years, 10 months, 2 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 249,UltraCharge 5000,71.53,82.35,1997,3.918,28.6,48.26,60.0,"2 years, 6 months, 8 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 250,EcoCell 75,79.32,93.52,413,3.791,23.2,33.35,66.38,"5 years, 11 months, 19 days",Fast (2C),5.0,Fair,61.5,No maintenance needed
+Battery 251,PowerMax X,60.87,94.45,563,3.795,25.2,30.72,67.41,"8 years, 5 months, 22 days",Fast (2C),8.0,Good,71.2,No maintenance needed
+Battery 252,LithiumPro 100,55.24,95.02,144,3.718,25.3,24.65,68.88,"14 years, 2 months, 26 days",Ultra-Fast (3C),14.0,Excellent,78.2,No maintenance needed
+Battery 253,EcoCell 75,68.64,83.55,1038,3.611,31.2,52.56,60.0,"1 years, 10 months, 5 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 254,UltraCharge 5000,57.53,100.0,198,3.703,26.8,20.0,71.76,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.2,No maintenance needed
+Battery 255,LithiumPro 100,59.04,64.13,2585,3.759,27.6,77.31,60.0,"0 years, 1 months, 22 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 256,LithiumPro 100,97.09,60.0,2991,4.106,32.7,93.38,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 257,UltraCharge 5000,44.51,88.32,1205,3.628,35.8,37.37,62.54,"5 years, 11 months, 17 days",Fast (2C),5.0,Fair,58.8,Improve cooling system
+Battery 258,PowerMax X,48.58,68.33,2677,3.531,39.7,77.03,60.0,"0 years, 0 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Improve cooling system; Reduce fast charging frequency
+Battery 259,PowerMax X,51.08,99.26,93,3.53,23.3,26.04,69.86,"12 years, 11 months, 24 days",Ultra-Fast (3C),12.0,Excellent,78.9,No maintenance needed
+Battery 260,PowerMax X,85.64,96.75,340,4.029,27.6,27.56,68.3,"10 years, 3 months, 20 days",Ultra-Fast (3C),10.0,Excellent,77.8,No maintenance needed
+Battery 261,LithiumPro 100,70.0,92.98,269,3.867,22.3,26.62,67.26,"12 years, 6 months, 17 days",Ultra-Fast (3C),12.0,Excellent,77.1,No maintenance needed
+Battery 262,PowerMax X,25.36,92.75,733,3.391,26.8,33.67,65.28,"6 years, 11 months, 8 days",Fast (2C),6.0,Good,63.7,No maintenance needed
+Battery 263,LithiumPro 100,90.89,94.43,327,4.042,32.8,23.4,67.74,"12 years, 1 months, 25 days",Ultra-Fast (3C),12.0,Excellent,77.4,No maintenance needed
+Battery 264,UltraCharge 5000,77.35,96.05,212,3.957,27.2,23.18,69.07,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.3,No maintenance needed
+Battery 265,UltraCharge 5000,29.59,88.54,1243,3.4,20.1,39.86,62.06,"6 years, 3 months, 1 days",Fast (2C),6.0,Good,61.4,No maintenance needed
+Battery 266,LithiumPro 100,35.71,95.39,132,3.581,26.0,24.73,68.66,"14 years, 3 months, 14 days",Ultra-Fast (3C),14.0,Excellent,78.1,No maintenance needed
+Battery 267,UltraCharge 5000,75.59,96.32,734,3.904,27.4,27.09,68.51,"11 years, 6 months, 26 days",Ultra-Fast (3C),11.0,Excellent,78.0,No maintenance needed
+Battery 268,LithiumPro 100,37.14,100.0,60,3.596,27.6,19.81,71.46,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.0,No maintenance needed
+Battery 269,PowerMax X,80.41,98.41,250,3.884,31.5,26.88,69.17,"10 years, 9 months, 18 days",Ultra-Fast (3C),10.0,Excellent,78.4,No maintenance needed
+Battery 270,EcoCell 75,67.79,84.91,794,3.675,33.5,47.28,60.0,"2 years, 7 months, 23 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 271,PowerMax X,83.5,92.2,537,3.881,34.1,31.75,65.4,"7 years, 5 months, 3 days",Fast (2C),7.0,Good,66.8,No maintenance needed
+Battery 272,UltraCharge 5000,61.9,94.64,674,3.806,25.9,26.9,68.18,"11 years, 9 months, 28 days",Ultra-Fast (3C),11.0,Excellent,77.7,No maintenance needed
+Battery 273,PowerMax X,90.61,96.43,276,4.1,27.2,25.08,68.53,"11 years, 1 months, 20 days",Ultra-Fast (3C),11.0,Excellent,78.0,No maintenance needed
+Battery 274,EcoCell 75,82.92,89.29,410,3.862,26.2,39.09,63.34,"4 years, 11 months, 13 days",Fast (2C),4.0,Fair,56.3,No maintenance needed
+Battery 275,PowerMax X,55.1,94.6,229,3.659,30.9,25.28,68.03,"10 years, 7 months, 26 days",Ultra-Fast (3C),10.0,Excellent,77.6,No maintenance needed
+Battery 276,LithiumPro 100,51.53,86.61,749,3.716,25.1,34.87,63.32,"7 years, 7 months, 4 days",Fast (2C),7.0,Good,65.3,No maintenance needed
+Battery 277,LithiumPro 100,71.37,79.25,1433,3.937,24.3,48.87,60.0,"3 years, 2 months, 26 days",Standard (1C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 278,LithiumPro 100,36.26,91.12,531,3.651,21.3,32.3,65.31,"9 years, 7 months, 25 days",Fast (2C),9.0,Excellent,72.7,No maintenance needed
+Battery 279,PowerMax X,60.01,97.43,269,3.656,21.7,25.09,69.44,"11 years, 7 months, 10 days",Ultra-Fast (3C),11.0,Excellent,78.6,No maintenance needed
+Battery 280,UltraCharge 5000,84.07,88.13,1480,4.111,40.7,34.09,62.21,"4 years, 11 months, 29 days",Fast (2C),4.0,Fair,55.5,Improve cooling system
+Battery 281,UltraCharge 5000,38.13,93.35,934,3.67,19.6,34.74,65.67,"8 years, 10 months, 24 days",Fast (2C),8.0,Good,70.0,No maintenance needed
+Battery 282,PowerMax X,85.99,72.27,2159,3.961,29.1,62.19,60.0,"0 years, 5 months, 11 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 283,EcoCell 75,52.53,89.38,545,3.459,26.2,38.16,63.16,"4 years, 6 months, 23 days",Fast (2C),4.0,Fair,56.2,No maintenance needed
+Battery 284,PowerMax X,56.79,87.75,1179,3.682,22.3,40.12,62.48,"4 years, 2 months, 12 days",Fast (2C),4.0,Fair,55.7,No maintenance needed
+Battery 285,UltraCharge 5000,49.44,77.27,2458,3.774,26.2,56.16,60.0,"1 years, 0 months, 15 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 286,UltraCharge 5000,90.3,70.59,2971,4.039,33.8,62.28,60.0,"0 years, 0 months, 14 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 287,EcoCell 75,59.27,73.46,1687,3.59,22.5,67.7,60.0,"0 years, 4 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 288,LithiumPro 100,49.15,60.0,2729,3.612,21.2,93.83,60.0,"0 years, 0 months, 4 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 289,UltraCharge 5000,96.03,93.14,608,4.132,34.4,24.26,66.7,"11 years, 4 months, 27 days",Ultra-Fast (3C),11.0,Excellent,76.7,No maintenance needed
+Battery 290,EcoCell 75,80.48,97.06,67,3.816,31.3,24.83,69.18,"8 years, 9 months, 11 days",Fast (2C),8.0,Good,72.4,No maintenance needed
+Battery 291,UltraCharge 5000,91.89,72.98,2572,4.13,25.8,57.85,60.0,"0 years, 8 months, 20 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 292,UltraCharge 5000,33.95,97.33,572,3.538,18.7,28.68,68.19,"12 years, 8 months, 6 days",Ultra-Fast (3C),12.0,Excellent,77.7,No maintenance needed
+Battery 293,UltraCharge 5000,11.29,69.64,2972,3.364,20.6,71.38,60.0,"0 years, 0 months, 11 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 294,LithiumPro 100,27.81,68.22,2096,3.483,24.4,70.76,60.0,"0 years, 8 months, 15 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 295,UltraCharge 5000,44.56,100.0,250,3.66,24.6,19.98,71.77,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.2,No maintenance needed
+Battery 296,EcoCell 75,84.35,88.12,601,3.905,28.9,38.18,62.73,"4 years, 1 months, 27 days",Fast (2C),4.0,Fair,55.9,No maintenance needed
+Battery 297,UltraCharge 5000,70.22,75.0,2850,3.998,21.8,60.45,60.0,"0 years, 2 months, 28 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 298,EcoCell 75,34.94,92.5,569,3.379,19.3,40.87,63.41,"4 years, 6 months, 11 days",Fast (2C),4.0,Fair,56.4,No maintenance needed
+Battery 299,EcoCell 75,12.9,70.57,2155,3.207,31.0,78.19,60.0,"0 years, 0 months, 4 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 300,PowerMax X,92.32,88.56,802,4.02,32.6,34.71,63.08,"5 years, 8 months, 19 days",Fast (2C),5.0,Fair,59.2,No maintenance needed
+Battery 301,LithiumPro 100,53.21,97.07,275,3.646,21.4,26.61,68.94,"13 years, 4 months, 5 days",Ultra-Fast (3C),13.0,Excellent,78.3,No maintenance needed
+Battery 302,EcoCell 75,48.21,93.97,81,3.391,38.2,26.17,66.44,"7 years, 5 months, 28 days",Fast (2C),7.0,Good,67.5,Improve cooling system
+Battery 303,UltraCharge 5000,74.3,90.98,883,3.911,24.0,29.16,65.94,"9 years, 8 months, 21 days",Ultra-Fast (3C),9.0,Excellent,73.2,No maintenance needed
+Battery 304,LithiumPro 100,72.4,92.69,523,3.96,22.8,30.4,66.21,"10 years, 3 months, 13 days",Fast (2C),10.0,Excellent,76.3,No maintenance needed
+Battery 305,EcoCell 75,72.99,96.1,93,3.682,26.0,25.71,68.99,"8 years, 10 months, 0 days",Fast (2C),8.0,Good,72.3,No maintenance needed
+Battery 306,PowerMax X,42.69,96.81,345,3.508,34.5,25.65,68.27,"9 years, 10 months, 16 days",Ultra-Fast (3C),9.0,Excellent,74.8,No maintenance needed
+Battery 307,UltraCharge 5000,66.66,85.73,1624,3.786,27.6,42.59,61.21,"4 years, 2 months, 26 days",Fast (2C),4.0,Fair,54.8,No maintenance needed
+Battery 308,UltraCharge 5000,58.74,94.7,603,3.838,28.1,24.45,68.45,"12 years, 6 months, 0 days",Ultra-Fast (3C),12.0,Excellent,77.9,No maintenance needed
+Battery 309,LithiumPro 100,14.43,60.0,2954,3.425,23.3,98.38,60.0,"0 years, 0 months, 0 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 310,UltraCharge 5000,17.7,97.98,211,3.372,19.4,21.81,69.52,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.7,No maintenance needed
+Battery 311,EcoCell 75,26.63,66.29,2418,3.219,37.4,86.05,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Improve cooling system; Reduce fast charging frequency
+Battery 312,EcoCell 75,28.49,91.07,450,3.196,22.7,39.66,62.9,"4 years, 11 months, 15 days",Fast (2C),4.0,Fair,56.0,No maintenance needed
+Battery 313,UltraCharge 5000,25.5,93.45,484,3.415,27.5,23.97,67.51,"13 years, 1 months, 27 days",Ultra-Fast (3C),13.0,Excellent,77.3,No maintenance needed
+Battery 314,LithiumPro 100,43.6,88.39,845,3.539,26.2,39.39,62.68,"6 years, 8 months, 27 days",Fast (2C),6.0,Good,61.9,No maintenance needed
+Battery 315,PowerMax X,84.58,98.58,216,3.928,31.9,22.4,70.01,"11 years, 10 months, 11 days",Ultra-Fast (3C),11.0,Excellent,79.0,No maintenance needed
+Battery 316,UltraCharge 5000,47.64,86.26,1472,3.617,30.0,38.42,61.87,"5 years, 0 months, 21 days",Fast (2C),5.0,Fair,58.3,No maintenance needed
+Battery 317,LithiumPro 100,72.38,83.61,1125,3.983,31.8,42.29,60.0,"4 years, 7 months, 29 days",Fast (2C),4.0,Fair,54.0,No maintenance needed
+Battery 318,LithiumPro 100,77.06,63.45,2595,3.951,23.9,74.27,60.0,"0 years, 1 months, 27 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 319,LithiumPro 100,77.68,100.0,84,3.954,24.0,20.06,71.45,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.0,No maintenance needed
+Battery 320,PowerMax X,35.19,74.49,1852,3.55,33.6,54.61,60.0,"1 years, 0 months, 16 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 321,UltraCharge 5000,31.13,78.55,2312,3.511,19.0,62.59,60.0,"1 years, 1 months, 27 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 322,PowerMax X,75.51,65.81,2652,3.952,27.1,71.63,60.0,"0 years, 0 months, 7 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 323,PowerMax X,45.23,90.13,582,3.555,28.3,32.45,64.68,"7 years, 4 months, 3 days",Fast (2C),7.0,Good,66.3,No maintenance needed
+Battery 324,UltraCharge 5000,97.62,87.17,1135,4.181,33.7,34.59,62.07,"6 years, 6 months, 26 days",Fast (2C),6.0,Good,61.4,No maintenance needed
+Battery 325,EcoCell 75,77.38,89.94,320,3.738,39.0,28.92,64.91,"5 years, 7 months, 6 days",Fast (2C),5.0,Fair,60.4,Improve cooling system
+Battery 326,LithiumPro 100,92.43,69.83,2043,4.14,29.2,60.61,60.0,"1 years, 0 months, 15 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 327,LithiumPro 100,62.66,94.95,238,3.752,31.2,24.56,68.5,"12 years, 9 months, 10 days",Ultra-Fast (3C),12.0,Excellent,77.9,No maintenance needed
+Battery 328,EcoCell 75,97.02,60.18,2991,3.913,31.6,110.35,60.0,"0 years, 0 months, 0 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 329,LithiumPro 100,33.78,69.13,1906,3.549,26.8,68.03,60.0,"0 years, 11 months, 29 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 330,EcoCell 75,34.57,69.2,2263,3.31,26.7,82.65,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 331,LithiumPro 100,64.41,94.57,361,3.872,28.7,25.37,68.09,"12 years, 1 months, 4 days",Ultra-Fast (3C),12.0,Excellent,77.7,No maintenance needed
+Battery 332,PowerMax X,32.74,94.19,555,3.402,24.7,29.94,66.77,"8 years, 7 months, 13 days",Ultra-Fast (3C),8.0,Good,70.7,No maintenance needed
+Battery 333,PowerMax X,64.82,72.11,2246,3.719,26.3,70.25,60.0,"0 years, 3 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 334,UltraCharge 5000,41.04,92.39,749,3.676,28.1,28.42,66.72,"10 years, 5 months, 18 days",Ultra-Fast (3C),10.0,Excellent,76.7,No maintenance needed
+Battery 335,LithiumPro 100,61.06,91.28,682,3.774,24.3,32.02,65.83,"8 years, 11 months, 25 days",Fast (2C),8.0,Good,70.1,No maintenance needed
+Battery 336,EcoCell 75,43.22,77.54,1335,3.44,24.8,58.49,60.0,"1 years, 0 months, 12 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 337,LithiumPro 100,66.86,60.0,2957,3.779,22.8,85.06,60.0,"0 years, 0 months, 4 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 338,PowerMax X,61.47,97.22,79,3.666,27.7,23.8,69.68,"12 years, 9 months, 28 days",Ultra-Fast (3C),12.0,Excellent,78.8,No maintenance needed
+Battery 339,LithiumPro 100,92.13,94.38,384,4.139,39.3,23.43,67.01,"10 years, 11 months, 17 days",Fast (2C),10.0,Excellent,76.9,Improve cooling system
+Battery 340,EcoCell 75,49.24,68.04,2262,3.443,26.6,81.73,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 341,PowerMax X,50.93,66.27,2679,3.536,24.7,81.39,60.0,"0 years, 0 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 342,UltraCharge 5000,87.0,91.03,1246,4.106,29.1,32.83,64.56,"7 years, 1 months, 12 days",Fast (2C),7.0,Good,66.2,No maintenance needed
+Battery 343,PowerMax X,84.95,73.59,2240,4.023,28.7,59.73,60.0,"0 years, 4 months, 15 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 344,EcoCell 75,47.93,86.34,601,3.545,23.4,39.18,61.85,"4 years, 1 months, 12 days",Fast (2C),4.0,Fair,55.3,No maintenance needed
+Battery 345,LithiumPro 100,78.16,86.77,733,4.017,26.9,36.16,62.47,"7 years, 4 months, 12 days",Fast (2C),7.0,Good,64.7,No maintenance needed
+Battery 346,EcoCell 75,91.06,72.75,1675,3.911,38.0,64.11,60.0,"0 years, 4 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 347,LithiumPro 100,55.41,93.51,243,3.756,29.3,23.2,68.3,"13 years, 0 months, 2 days",Ultra-Fast (3C),13.0,Excellent,77.8,No maintenance needed
+Battery 348,EcoCell 75,67.65,89.4,790,3.588,23.9,46.06,61.89,"3 years, 2 months, 19 days",Fast (2C),3.0,Poor,52.3,Schedule replacement in next 6 months
+Battery 349,LithiumPro 100,75.03,88.81,763,3.971,31.0,33.19,63.71,"7 years, 7 months, 4 days",Fast (2C),7.0,Good,65.6,No maintenance needed
+Battery 350,UltraCharge 5000,63.75,98.49,387,3.804,29.3,22.72,70.38,"14 years, 11 months, 8 days",Ultra-Fast (3C),14.0,Excellent,79.3,No maintenance needed
+Battery 351,UltraCharge 5000,21.09,98.24,104,3.5,25.9,19.37,70.63,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.4,No maintenance needed
+Battery 352,LithiumPro 100,53.22,80.73,1443,3.758,21.7,48.12,60.0,"3 years, 4 months, 9 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 353,EcoCell 75,71.39,91.08,539,3.802,29.0,36.31,64.57,"4 years, 8 months, 28 days",Fast (2C),4.0,Fair,57.2,No maintenance needed
+Battery 354,EcoCell 75,43.56,91.81,177,3.525,23.7,33.14,65.33,"6 years, 10 months, 20 days",Fast (2C),6.0,Good,63.7,No maintenance needed
+Battery 355,UltraCharge 5000,48.31,88.62,1216,3.598,20.7,33.98,63.76,"7 years, 1 months, 10 days",Fast (2C),7.0,Good,65.6,No maintenance needed
+Battery 356,UltraCharge 5000,38.05,82.47,1966,3.595,21.5,47.99,60.0,"2 years, 8 months, 20 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 357,UltraCharge 5000,67.44,94.4,648,3.951,40.3,25.09,67.03,"10 years, 6 months, 8 days",Fast (2C),10.0,Excellent,76.9,Improve cooling system
+Battery 358,LithiumPro 100,36.22,60.0,2968,3.641,23.3,85.9,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 359,EcoCell 75,70.55,96.2,136,3.694,25.8,28.44,68.53,"8 years, 2 months, 12 days",Fast (2C),8.0,Good,72.0,No maintenance needed
+Battery 360,PowerMax X,47.85,96.17,103,3.49,27.1,21.9,69.27,"12 years, 11 months, 4 days",Ultra-Fast (3C),12.0,Excellent,78.5,No maintenance needed
+Battery 361,PowerMax X,89.89,94.74,357,4.068,32.8,25.88,67.31,"9 years, 7 months, 20 days",Ultra-Fast (3C),9.0,Excellent,74.1,No maintenance needed
+Battery 362,EcoCell 75,30.81,72.1,1705,3.305,27.5,77.1,60.0,"0 years, 2 months, 15 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 363,LithiumPro 100,67.55,88.57,844,3.949,30.4,34.9,63.37,"7 years, 0 months, 18 days",Fast (2C),7.0,Good,65.4,No maintenance needed
+Battery 364,PowerMax X,85.48,91.32,687,3.886,29.2,33.01,65.13,"6 years, 10 months, 20 days",Fast (2C),6.0,Good,63.6,No maintenance needed
+Battery 365,UltraCharge 5000,16.04,91.86,686,3.446,22.8,26.75,66.38,"11 years, 4 months, 15 days",Ultra-Fast (3C),11.0,Excellent,76.5,No maintenance needed
+Battery 366,UltraCharge 5000,27.84,93.34,695,3.417,26.7,26.96,66.93,"11 years, 4 months, 10 days",Ultra-Fast (3C),11.0,Excellent,76.9,No maintenance needed
+Battery 367,LithiumPro 100,44.95,81.16,1253,3.651,23.8,48.69,60.0,"3 years, 10 months, 4 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 368,PowerMax X,93.45,92.59,445,3.986,28.4,27.72,66.56,"8 years, 11 months, 27 days",Ultra-Fast (3C),8.0,Good,70.6,No maintenance needed
+Battery 369,EcoCell 75,31.9,69.15,2319,3.23,18.3,81.69,60.0,"0 years, 0 months, 3 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 370,LithiumPro 100,75.85,80.66,1377,3.974,36.4,45.36,60.0,"3 years, 3 months, 23 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 371,LithiumPro 100,62.47,93.61,489,3.76,16.8,32.06,66.27,"10 years, 3 months, 23 days",Fast (2C),10.0,Excellent,76.4,No maintenance needed
+Battery 372,UltraCharge 5000,92.16,97.4,548,4.16,26.3,24.91,68.91,"13 years, 6 months, 11 days",Ultra-Fast (3C),13.0,Excellent,78.2,No maintenance needed
+Battery 373,LithiumPro 100,64.92,84.14,1177,3.78,25.1,46.98,60.0,"4 years, 5 months, 4 days",Fast (2C),4.0,Fair,54.0,No maintenance needed
+Battery 374,LithiumPro 100,59.21,88.09,628,3.745,24.5,30.75,64.8,"8 years, 11 months, 18 days",Fast (2C),8.0,Good,69.4,No maintenance needed
+Battery 375,PowerMax X,80.41,92.06,526,3.851,25.9,32.38,65.89,"8 years, 0 months, 14 days",Fast (2C),8.0,Good,70.1,No maintenance needed
+Battery 376,UltraCharge 5000,54.63,95.45,609,3.831,27.6,26.06,68.5,"12 years, 4 months, 0 days",Ultra-Fast (3C),12.0,Excellent,77.9,No maintenance needed
+Battery 377,LithiumPro 100,75.78,83.96,1080,4.057,29.7,42.97,60.0,"4 years, 10 months, 14 days",Fast (2C),4.0,Fair,54.0,No maintenance needed
+Battery 378,UltraCharge 5000,32.77,98.36,385,3.578,29.3,20.89,70.42,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.3,No maintenance needed
+Battery 379,LithiumPro 100,59.58,60.0,2914,3.792,21.5,94.39,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 380,EcoCell 75,17.09,60.0,2979,3.173,21.7,123.07,60.0,"0 years, 0 months, 0 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 381,LithiumPro 100,57.96,68.99,1895,3.812,29.5,60.11,60.0,"1 years, 2 months, 27 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 382,UltraCharge 5000,66.22,98.57,155,3.774,29.7,17.79,70.99,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.7,No maintenance needed
+Battery 383,EcoCell 75,55.39,85.14,951,3.529,24.1,48.17,60.0,"2 years, 5 months, 13 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 384,EcoCell 75,38.75,95.25,147,3.4,23.0,30.54,66.96,"7 years, 9 months, 14 days",Fast (2C),7.0,Good,67.9,No maintenance needed
+Battery 385,LithiumPro 100,29.73,90.25,717,3.42,19.4,37.06,63.33,"7 years, 10 months, 25 days",Fast (2C),7.0,Good,65.3,No maintenance needed
+Battery 386,UltraCharge 5000,91.93,83.97,1481,4.023,31.1,38.9,60.42,"4 years, 8 months, 22 days",Fast (2C),4.0,Fair,54.3,No maintenance needed
+Battery 387,PowerMax X,81.95,99.15,208,4.015,27.5,22.62,70.34,"12 years, 6 months, 15 days",Ultra-Fast (3C),12.0,Excellent,79.2,No maintenance needed
+Battery 388,PowerMax X,53.83,81.87,1264,3.574,29.9,45.47,60.0,"3 years, 0 months, 4 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 389,LithiumPro 100,37.2,83.69,992,3.629,23.1,43.72,60.0,"5 years, 3 months, 15 days",Fast (2C),5.0,Fair,57.0,No maintenance needed
+Battery 390,UltraCharge 5000,84.83,90.06,825,4.142,29.7,27.23,65.14,"9 years, 8 months, 23 days",Ultra-Fast (3C),9.0,Excellent,72.6,No maintenance needed
+Battery 391,LithiumPro 100,29.28,88.36,824,3.403,19.7,39.31,62.07,"6 years, 10 months, 28 days",Fast (2C),6.0,Good,61.4,No maintenance needed
+Battery 392,PowerMax X,24.2,95.87,277,3.436,24.7,28.74,67.79,"10 years, 7 months, 3 days",Ultra-Fast (3C),10.0,Excellent,77.5,No maintenance needed
+Battery 393,PowerMax X,32.52,92.63,483,3.33,15.5,33.18,64.61,"8 years, 3 months, 8 days",Fast (2C),8.0,Good,69.2,No maintenance needed
+Battery 394,LithiumPro 100,13.37,93.17,505,3.383,25.6,31.59,65.94,"10 years, 2 months, 5 days",Fast (2C),10.0,Excellent,76.2,No maintenance needed
+Battery 395,PowerMax X,35.48,91.66,720,3.481,19.3,32.2,65.02,"7 years, 2 months, 8 days",Fast (2C),7.0,Good,66.5,No maintenance needed
+Battery 396,LithiumPro 100,75.76,89.27,708,3.906,25.8,33.51,64.38,"8 years, 3 months, 9 days",Fast (2C),8.0,Good,69.1,No maintenance needed
+Battery 397,EcoCell 75,55.82,83.38,950,3.623,38.7,46.05,60.0,"2 years, 1 months, 24 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 398,PowerMax X,71.71,91.58,767,3.726,29.3,34.27,65.23,"6 years, 5 months, 2 days",Fast (2C),6.0,Good,63.7,No maintenance needed
+Battery 399,LithiumPro 100,85.16,71.86,1736,4.07,40.8,54.42,60.0,"1 years, 7 months, 3 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 400,LithiumPro 100,71.87,100.0,145,3.891,28.6,19.87,71.41,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.0,No maintenance needed
+Battery 401,PowerMax X,90.0,89.43,862,3.982,30.0,33.51,63.96,"5 years, 10 months, 10 days",Fast (2C),5.0,Fair,59.8,No maintenance needed
+Battery 402,UltraCharge 5000,75.89,84.81,1593,4.035,30.6,41.69,60.22,"4 years, 2 months, 17 days",Fast (2C),4.0,Fair,54.2,No maintenance needed
+Battery 403,LithiumPro 100,32.13,86.62,1017,3.471,27.4,41.27,61.32,"5 years, 7 months, 15 days",Fast (2C),5.0,Fair,57.9,No maintenance needed
+Battery 404,LithiumPro 100,35.43,96.78,411,3.602,21.9,29.95,68.09,"11 years, 8 months, 16 days",Ultra-Fast (3C),11.0,Excellent,77.7,No maintenance needed
+Battery 405,LithiumPro 100,70.67,98.16,82,3.886,28.7,19.54,70.64,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.4,No maintenance needed
+Battery 406,PowerMax X,16.95,75.04,2098,3.192,25.5,67.34,60.0,"0 years, 5 months, 28 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 407,LithiumPro 100,49.04,93.13,359,3.662,29.8,26.31,67.29,"11 years, 6 months, 3 days",Ultra-Fast (3C),11.0,Excellent,77.1,No maintenance needed
+Battery 408,LithiumPro 100,51.8,100.0,109,3.729,27.8,21.11,71.52,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.1,No maintenance needed
+Battery 409,UltraCharge 5000,66.55,84.69,1630,3.863,21.7,44.84,60.1,"4 years, 0 months, 23 days",Fast (2C),4.0,Fair,54.1,No maintenance needed
+Battery 410,PowerMax X,82.52,88.11,1101,3.936,20.4,39.26,62.39,"4 years, 6 months, 24 days",Fast (2C),4.0,Fair,55.7,No maintenance needed
+Battery 411,EcoCell 75,13.82,87.39,722,3.089,23.2,40.13,61.06,"3 years, 8 months, 21 days",Fast (2C),3.0,Poor,51.7,Schedule replacement in next 6 months
+Battery 412,EcoCell 75,74.89,86.21,763,3.671,37.7,37.77,61.52,"3 years, 2 months, 18 days",Fast (2C),3.0,Poor,52.1,Schedule replacement in next 6 months; Improve cooling system
+Battery 413,LithiumPro 100,66.6,90.26,574,3.82,24.5,30.88,65.54,"9 years, 6 months, 16 days",Fast (2C),9.0,Excellent,72.9,No maintenance needed
+Battery 414,PowerMax X,55.84,72.72,2000,3.643,22.4,61.12,60.0,"0 years, 8 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 415,LithiumPro 100,79.54,100.0,125,3.926,23.1,22.68,70.93,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.7,No maintenance needed
+Battery 416,EcoCell 75,16.5,89.43,560,3.208,25.5,38.8,62.54,"4 years, 5 months, 27 days",Fast (2C),4.0,Fair,55.8,No maintenance needed
+Battery 417,LithiumPro 100,53.95,96.91,68,3.733,23.5,21.3,70.29,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.2,No maintenance needed
+Battery 418,EcoCell 75,58.38,62.8,2638,3.619,33.1,91.4,60.0,"0 years, 0 months, 1 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 419,EcoCell 75,50.84,90.17,513,3.571,24.9,39.83,63.5,"4 years, 7 months, 22 days",Fast (2C),4.0,Fair,56.4,No maintenance needed
+Battery 420,PowerMax X,95.61,87.99,712,4.1,32.9,34.26,62.72,"6 years, 0 months, 10 days",Fast (2C),6.0,Good,61.9,No maintenance needed
+Battery 421,UltraCharge 5000,91.64,98.72,498,4.098,33.5,24.65,69.11,"13 years, 1 months, 29 days",Ultra-Fast (3C),13.0,Excellent,78.4,No maintenance needed
+Battery 422,EcoCell 75,50.29,94.22,198,3.46,21.1,29.38,66.75,"7 years, 6 months, 16 days",Fast (2C),7.0,Good,67.7,No maintenance needed
+Battery 423,PowerMax X,75.99,73.77,2299,3.795,28.7,65.06,60.0,"0 years, 2 months, 29 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 424,PowerMax X,54.22,98.99,95,3.586,30.1,21.44,70.54,"13 years, 3 months, 1 days",Ultra-Fast (3C),13.0,Excellent,79.4,No maintenance needed
+Battery 425,LithiumPro 100,43.39,78.71,1556,3.673,20.1,52.7,60.0,"2 years, 7 months, 28 days",Standard (1C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 426,UltraCharge 5000,25.6,92.31,782,3.453,20.8,27.23,66.34,"10 years, 9 months, 29 days",Ultra-Fast (3C),10.0,Excellent,76.4,No maintenance needed
+Battery 427,LithiumPro 100,10.52,95.1,449,3.288,19.7,29.9,66.52,"11 years, 2 months, 12 days",Ultra-Fast (3C),11.0,Excellent,76.6,No maintenance needed
+Battery 428,LithiumPro 100,58.2,71.5,2043,3.79,36.9,57.62,60.0,"1 years, 0 months, 27 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 429,PowerMax X,49.34,94.1,392,3.586,28.7,28.16,67.24,"9 years, 4 months, 22 days",Ultra-Fast (3C),9.0,Excellent,74.1,No maintenance needed
+Battery 430,EcoCell 75,83.1,80.64,1137,3.793,41.5,45.23,60.0,"1 years, 7 months, 19 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 431,UltraCharge 5000,88.21,77.32,2631,4.006,23.2,59.32,60.0,"0 years, 7 months, 27 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 432,EcoCell 75,90.38,90.71,706,3.819,26.0,40.36,63.8,"3 years, 11 months, 6 days",Fast (2C),3.0,Poor,53.7,Schedule replacement in next 6 months
+Battery 433,EcoCell 75,29.6,91.96,440,3.295,23.4,33.58,64.76,"5 years, 8 months, 5 days",Fast (2C),5.0,Fair,60.3,No maintenance needed
+Battery 434,PowerMax X,50.86,67.67,2513,3.631,21.9,80.92,60.0,"0 years, 0 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 435,UltraCharge 5000,84.39,96.83,183,4.07,30.4,18.45,69.54,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.7,No maintenance needed
+Battery 436,PowerMax X,69.09,66.18,2485,3.804,23.7,81.57,60.0,"0 years, 0 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 437,EcoCell 75,28.76,62.28,2504,3.263,34.5,84.91,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 438,EcoCell 75,81.6,91.98,488,3.731,34.7,34.06,65.05,"4 years, 10 months, 27 days",Fast (2C),4.0,Fair,57.5,No maintenance needed
+Battery 439,UltraCharge 5000,40.3,99.32,413,3.542,27.5,23.21,70.42,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.3,No maintenance needed
+Battery 440,LithiumPro 100,24.61,60.34,2687,3.467,24.5,83.98,60.0,"0 years, 0 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 441,PowerMax X,72.05,62.73,2936,3.836,25.8,89.6,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 442,UltraCharge 5000,65.93,74.67,2827,3.809,17.8,73.22,60.0,"0 years, 2 months, 7 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 443,UltraCharge 5000,34.15,86.9,1386,3.601,27.0,41.57,61.7,"5 years, 3 months, 4 days",Fast (2C),5.0,Fair,58.2,No maintenance needed
+Battery 444,UltraCharge 5000,54.55,89.74,1341,3.694,31.2,37.08,63.68,"5 years, 11 months, 6 days",Fast (2C),5.0,Fair,59.6,No maintenance needed
+Battery 445,LithiumPro 100,54.46,60.0,2971,3.696,27.9,90.68,60.0,"0 years, 0 months, 2 days",Standard (1C),0.0,Critical,42.0,Replace battery; Check terminal connections
+Battery 446,EcoCell 75,36.42,90.76,580,3.42,22.4,38.51,63.48,"4 years, 6 months, 25 days",Fast (2C),4.0,Fair,56.4,No maintenance needed
+Battery 447,EcoCell 75,10.96,60.43,2809,3.052,20.5,99.85,60.0,"0 years, 0 months, 0 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Check terminal connections; Reduce fast charging frequency
+Battery 448,UltraCharge 5000,75.09,96.91,682,3.929,23.0,27.24,68.7,"12 years, 2 months, 29 days",Ultra-Fast (3C),12.0,Excellent,78.1,No maintenance needed
+Battery 449,EcoCell 75,19.59,90.92,544,3.159,35.8,32.68,63.51,"4 years, 8 months, 6 days",Fast (2C),4.0,Fair,56.5,Improve cooling system
+Battery 450,PowerMax X,65.98,75.97,1843,3.68,36.9,54.97,60.0,"1 years, 0 months, 16 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 451,PowerMax X,88.85,90.76,716,4.034,24.6,32.61,64.93,"7 years, 0 months, 18 days",Fast (2C),7.0,Good,66.5,No maintenance needed
+Battery 452,PowerMax X,74.44,93.76,574,3.851,24.5,29.68,67.18,"8 years, 6 months, 1 days",Ultra-Fast (3C),8.0,Good,71.0,No maintenance needed
+Battery 453,PowerMax X,45.32,89.57,700,3.529,31.8,33.44,63.92,"6 years, 4 months, 27 days",Fast (2C),6.0,Good,62.7,No maintenance needed
+Battery 454,UltraCharge 5000,53.28,75.12,2430,3.831,26.8,62.03,60.0,"0 years, 10 months, 21 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 455,LithiumPro 100,66.99,94.06,277,3.901,37.3,24.9,67.26,"11 years, 5 months, 25 days",Fast (2C),11.0,Excellent,77.1,Improve cooling system
+Battery 456,PowerMax X,63.33,90.52,689,3.813,21.6,36.59,64.3,"6 years, 7 months, 19 days",Fast (2C),6.0,Good,63.0,No maintenance needed
+Battery 457,LithiumPro 100,70.09,91.68,388,3.911,28.7,26.27,66.61,"11 years, 2 months, 17 days",Ultra-Fast (3C),11.0,Excellent,76.6,No maintenance needed
+Battery 458,EcoCell 75,12.54,89.68,679,3.174,35.9,36.45,62.26,"3 years, 10 months, 1 days",Fast (2C),3.0,Poor,52.6,Schedule replacement in next 6 months; Improve cooling system
+Battery 459,LithiumPro 100,25.32,93.92,470,3.366,23.1,29.68,66.5,"10 years, 11 months, 0 days",Ultra-Fast (3C),10.0,Excellent,76.5,No maintenance needed
+Battery 460,EcoCell 75,81.37,84.32,1194,3.855,31.5,47.15,60.0,"1 years, 9 months, 0 days",Fast (2C),1.0,Poor,45.0,Schedule replacement in next 6 months
+Battery 461,PowerMax X,36.11,95.25,147,3.452,18.9,28.2,67.24,"11 years, 4 months, 22 days",Ultra-Fast (3C),11.0,Excellent,77.1,No maintenance needed
+Battery 462,LithiumPro 100,50.74,98.62,242,3.74,23.4,23.87,70.5,"14 years, 6 months, 22 days",Ultra-Fast (3C),14.0,Excellent,79.3,No maintenance needed
+Battery 463,UltraCharge 5000,32.1,98.74,139,3.449,21.6,20.91,70.36,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.3,No maintenance needed
+Battery 464,EcoCell 75,36.1,86.45,725,3.436,35.6,43.77,60.05,"3 years, 0 months, 14 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months; Improve cooling system
+Battery 465,UltraCharge 5000,68.31,97.88,500,3.973,23.4,26.33,69.22,"13 years, 9 months, 14 days",Ultra-Fast (3C),13.0,Excellent,78.5,No maintenance needed
+Battery 466,UltraCharge 5000,40.75,76.35,2478,3.623,31.3,58.64,60.0,"0 years, 10 months, 15 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 467,LithiumPro 100,60.51,98.08,229,3.817,30.2,21.65,70.32,"14 years, 3 months, 21 days",Ultra-Fast (3C),14.0,Excellent,79.2,No maintenance needed
+Battery 468,UltraCharge 5000,45.12,99.53,166,3.734,22.6,20.57,71.47,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,80.0,No maintenance needed
+Battery 469,LithiumPro 100,96.56,88.46,584,4.2,32.1,32.14,63.18,"8 years, 4 months, 13 days",Fast (2C),8.0,Good,68.2,No maintenance needed
+Battery 470,UltraCharge 5000,76.53,78.25,2108,3.982,25.6,50.89,60.0,"2 years, 0 months, 5 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 471,PowerMax X,35.15,83.34,1266,3.46,18.8,47.75,60.0,"3 years, 1 months, 3 days",Fast (2C),3.0,Poor,51.0,Schedule replacement in next 6 months
+Battery 472,LithiumPro 100,43.57,67.49,2340,3.577,28.1,66.55,60.0,"0 years, 6 months, 2 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 473,EcoCell 75,43.76,84.03,943,3.431,25.2,44.8,60.0,"2 years, 7 months, 6 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 474,EcoCell 75,91.61,89.93,341,3.926,29.7,31.35,64.75,"5 years, 10 months, 8 days",Fast (2C),5.0,Fair,60.3,No maintenance needed
+Battery 475,EcoCell 75,52.64,81.72,1048,3.559,23.0,49.41,60.0,"2 years, 0 months, 9 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 476,LithiumPro 100,31.25,85.43,788,3.434,26.9,37.22,61.58,"6 years, 10 months, 4 days",Fast (2C),6.0,Good,61.1,No maintenance needed
+Battery 477,UltraCharge 5000,44.93,100.0,233,3.571,24.9,22.46,71.1,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.8,No maintenance needed
+Battery 478,EcoCell 75,43.07,79.1,1384,3.4,28.9,64.62,60.0,"0 years, 9 months, 17 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 479,UltraCharge 5000,41.01,100.0,89,3.656,32.1,16.64,71.26,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.9,No maintenance needed
+Battery 480,UltraCharge 5000,40.18,92.19,791,3.685,28.5,31.91,65.93,"9 years, 6 months, 22 days",Fast (2C),9.0,Excellent,73.2,No maintenance needed
+Battery 481,LithiumPro 100,50.64,94.01,560,3.733,24.6,28.94,67.63,"10 years, 6 months, 27 days",Ultra-Fast (3C),10.0,Excellent,77.3,No maintenance needed
+Battery 482,LithiumPro 100,41.53,96.26,66,3.58,25.0,21.54,69.74,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,78.8,No maintenance needed
+Battery 483,PowerMax X,58.41,87.56,759,3.695,39.6,33.77,62.8,"5 years, 5 months, 7 days",Fast (2C),5.0,Fair,59.0,Improve cooling system
+Battery 484,EcoCell 75,91.69,96.23,264,3.893,37.2,29.83,67.21,"6 years, 5 months, 22 days",Fast (2C),6.0,Good,65.0,Improve cooling system
+Battery 485,UltraCharge 5000,43.42,98.06,144,3.562,28.8,19.89,70.48,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.3,No maintenance needed
+Battery 486,UltraCharge 5000,22.59,80.51,2063,3.335,24.2,53.52,60.0,"2 years, 1 months, 3 days",Fast (2C),2.0,Poor,48.0,Schedule replacement in next 6 months
+Battery 487,PowerMax X,87.19,93.89,492,4.017,27.4,32.34,66.19,"8 years, 3 months, 26 days",Fast (2C),8.0,Good,70.3,No maintenance needed
+Battery 488,LithiumPro 100,99.19,87.93,668,4.2,30.1,35.71,62.39,"7 years, 7 months, 4 days",Fast (2C),7.0,Good,64.7,No maintenance needed
+Battery 489,EcoCell 75,81.07,77.04,1480,3.767,32.6,57.04,60.0,"0 years, 9 months, 5 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 490,UltraCharge 5000,88.39,71.65,2912,4.013,28.8,60.94,60.0,"0 years, 1 months, 16 days",Fast (2C),0.0,Poor,42.0,Schedule replacement in next 6 months
+Battery 491,PowerMax X,78.39,68.81,2374,3.791,28.4,72.44,60.0,"0 years, 1 months, 9 days",Standard (1C),0.0,Poor,42.0,Schedule replacement in next 6 months; Reduce fast charging frequency
+Battery 492,EcoCell 75,47.71,95.18,154,3.433,27.6,29.96,67.08,"7 years, 7 months, 12 days",Fast (2C),7.0,Good,68.0,No maintenance needed
+Battery 493,LithiumPro 100,30.32,93.18,579,3.542,27.1,31.96,66.12,"9 years, 7 months, 2 days",Fast (2C),9.0,Excellent,73.3,No maintenance needed
+Battery 494,PowerMax X,22.57,92.96,743,3.339,26.3,31.31,65.76,"7 years, 3 months, 3 days",Fast (2C),7.0,Good,67.0,No maintenance needed
+Battery 495,PowerMax X,52.28,91.31,791,3.631,26.9,35.74,64.79,"6 years, 3 months, 12 days",Fast (2C),6.0,Good,63.4,No maintenance needed
+Battery 496,UltraCharge 5000,96.5,97.41,583,4.188,26.8,24.26,68.94,"13 years, 4 months, 19 days",Ultra-Fast (3C),13.0,Excellent,78.3,No maintenance needed
+Battery 497,LithiumPro 100,33.56,99.94,142,3.57,27.5,22.62,70.86,"15 years, 0 months, 0 days",Ultra-Fast (3C),15.0,Excellent,79.6,No maintenance needed
+Battery 498,EcoCell 75,50.51,87.42,707,3.43,38.4,36.27,61.74,"3 years, 6 months, 6 days",Fast (2C),3.0,Poor,52.2,Schedule replacement in next 6 months; Improve cooling system
+Battery 499,LithiumPro 100,45.01,86.69,693,3.683,37.5,32.17,62.89,"7 years, 2 months, 17 days",Fast (2C),7.0,Good,65.0,Improve cooling system
+Battery 500,LithiumPro 100,42.15,69.09,1944,3.587,38.6,61.13,60.0,"1 years, 0 months, 12 days",Standard (1C),1.0,Poor,45.0,Schedule replacement in next 6 months; Improve cooling system; Reduce fast charging frequency
